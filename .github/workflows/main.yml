@@ -1,4 +1,4 @@
-name: Windows - Litemanger
+name: Windows - Litemanager
 on:
 	workflow_dispatch:
 
